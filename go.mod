@@ -1,4 +1,4 @@
-module websocket-sdk
+module github.com/Kress4s/websocket-sdk
 
 go 1.21.1
 

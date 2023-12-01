@@ -13,7 +13,8 @@ package websocket_sdk
 
 import (
 	"log"
-	"websocket-sdk/ws"
+
+	"github.com/Kress4s/websocket-sdk/ws"
 
 	"github.com/goccy/go-json"
 )
